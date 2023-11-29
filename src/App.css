@@ -7,3 +7,24 @@
 .sidebar {
   min-height: 800px;
 }
+.post-card {
+  margin: 20px 50px;
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+width: 30rem;
+}
+.btn {
+  margin-top: 8px;
+}
+.badge {
+  margin: 2px;
+}
+.reactions {
+  margin: 10px;
+}
+.create-post {
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 50px;
+}
